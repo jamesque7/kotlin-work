@@ -12,7 +12,7 @@ in those subsections, are of particular relevance.
 In `src/Main.kt`, write a program that uses [Heron's formula][heron] to compute
 the area of a triangle, given the lengths of its three sides.
 
-The three side lengths must be provided as command line arguments. You can
+The three side length s must be provided as command line arguments. You can
 assume that any arguments supplied on the command line are valid floating-point
 numbers, but you should _not_ assume that three values are always supplied on
 the command line.
