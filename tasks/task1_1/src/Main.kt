@@ -1,3 +1,4 @@
 fun main(){
-    println("KOTLINKOTLIN")
+    println("KOTLIN KOTLIN")
+    
 }
